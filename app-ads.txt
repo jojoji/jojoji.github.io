@@ -1,11 +1,21 @@
-# AdMob
 google.com, pub-9989159984345836, DIRECT, f08c47fec0942fa0
-
-# Pangle
 pangleglobal.com, 5034643, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
-
-# 如果有其他聚合买家（参考TopOn后台指引，以下为示例）
+toponad.com, , DIRECT, 1d49fe424a1a456d
+33across.com, 001Pg000019IbWWIA0, RESELLER, bbea06d9c4d2853c
+acexchange.co.kr, 1368497933, RESELLER
+adagio.io, 1543, RESELLER
+adform.com, 3243, RESELLER, 9f5210a2f0999e32.
+adingo.jp, 32534, RESELLER
+admixer.net, 1046d8dc-f1a9-439d-a8a5-3401fda83729, RESELLER
+adnimation.com, 20250084, RESELLER
+adyoulike.com, 02bbfc5dd0707834f452ab1bbe855a83, RESELLER
+adyoulike.com, 95dcbc06a550cd02bc6ad7371dd000c7, RESELLER
+amxrtb.com, 105199922, RESELLER
+app-stock.com, 558223, RESELLER, ed8c126ea5971415
+appnexus.com, 15774, RESELLER
+appnexus.com, 16769, RESELLER, f5ab79cb980f11d1
+axonix.com, 59202, RESELLER
 axonix.com, 59203, RESELLER
 betweendigital.com, 45117, RESELLER
 bidfuse.com, 113, RESELLER, 92bf3d4bb7d08ded
@@ -71,6 +81,7 @@ video.unrulymedia.com, 583925374, RESELLER
 voisetech.com, 1127, RESELLER, 9009ef0379162448
 vosacosg.com, 38367, RESELLER
 zetaglobal.net, 927, RESELLER
+toponad.com, , DIRECT, 1d49fe424a1a456d
 33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
 33across.com, 0015a00002egvRSAAY, RESELLER, bbea06d9c4d2853c
 33across.com, 0015a00003DKg9ZAAT, RESELLER, bbea06d9c4d2853c
@@ -110,6 +121,7 @@ aralego.com, par-47BD7BBE27294326FEE36D28AA44A88B, RESELLER
 aralego.com, par-D2346AAB7ABD36B4CDD7BBD264BA92E2, RESELLER
 atasdigital.com, 506154, RESELLER
 axonix.com, 57869, RESELLER
+axonix.com, 59202, RESELLER
 beachfront.com, 7300, RESELLER
 betweendigital.com, 44095, RESELLER
 bidmachine.io, 114, RESELLER
@@ -166,6 +178,7 @@ inmobi.com, 8b70afb78ac249ccbd71be4f75dbf09c, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 9e311c7a68e94888aac7fbb4272381e2, RESELLER, 83e75a7ae333ca9d
 inmobi.com, b01aa06531c543d8a5fb9982f60afb00, RESELLER, 83e75a7ae333ca9d
 inmobi.com, b164fef73b06493b92a9fae09941eef4, RESELLER, 83e75a7ae333ca9d
+inmobi.com, e26b3ca44a074f1e8de7e4ff5b31f772, RESELLER, 83e75a7ae333ca9d
 kubient.com, 5e2cb089c866, RESELLER, 4f12311e6ed900a3
 liftoff.io, 7f6945815e6, RESELLER
 lijit.com, 242989, RESELLER, fafdf38b16bf6b2b#SOVRN
