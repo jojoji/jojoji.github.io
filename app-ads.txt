@@ -2,11 +2,10 @@ google.com, pub-9989159984345836, DIRECT, f08c47fec0942fa0
 pangleglobal.com, 5034643, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 toponad.com, 828562adbb2dfedd8787b3eb42bb21cc, DIRECT, 1d49fe424a1a456d
-toponad.com, , DIRECT, 1d49fe424a1a456d
 33across.com, 001Pg000019IbWWIA0, RESELLER, bbea06d9c4d2853c
 acexchange.co.kr, 1368497933, RESELLER
 adagio.io, 1543, RESELLER
-adform.com, 3243, RESELLER, 9f5210a2f0999e32.
+adform.com, 3243, RESELLER, 9f5210a2f0999e32
 adingo.jp, 32534, RESELLER
 admixer.net, 1046d8dc-f1a9-439d-a8a5-3401fda83729, RESELLER
 adnimation.com, 20250084, RESELLER
@@ -82,7 +81,6 @@ video.unrulymedia.com, 583925374, RESELLER
 voisetech.com, 1127, RESELLER, 9009ef0379162448
 vosacosg.com, 38367, RESELLER
 zetaglobal.net, 927, RESELLER
-toponad.com, , DIRECT, 1d49fe424a1a456d
 33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
 33across.com, 0015a00002egvRSAAY, RESELLER, bbea06d9c4d2853c
 33across.com, 0015a00003DKg9ZAAT, RESELLER, bbea06d9c4d2853c
