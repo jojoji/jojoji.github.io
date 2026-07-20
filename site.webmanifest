@@ -1,0 +1,18 @@
+{
+    "name": "Pupu Games",
+    "short_name": "Pupu Games",
+    "description": "A global casual game developer and publisher.",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#f3f1ec",
+    "theme_color": "#ed1111",
+    "icons": [
+        {
+            "src": "/assets/brand/pupu-logo-red.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}

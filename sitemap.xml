@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://pupuhk.com/</loc>
+        <lastmod>2026-07-20</lastmod>
+        <image:image>
+            <image:loc>https://pupuhk.com/assets/games/unscrew-drop-wide.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://pupuhk.com/assets/games/knot-off-wide.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://pupuhk.com/assets/games/cups-up-wide.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://pupuhk.com/assets/games/puppydoku-wide.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://pupuhk.com/privacy.html</loc>
+        <lastmod>2026-07-20</lastmod>
+    </url>
+    <url>
+        <loc>https://pupuhk.com/terms.html</loc>
+        <lastmod>2026-07-20</lastmod>
+    </url>
+</urlset>
