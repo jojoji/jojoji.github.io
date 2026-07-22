@@ -160,7 +160,7 @@ button { color: inherit; font: inherit; }
 }
 
 h1, h2, h3 { margin: 0; font-family: var(--display); letter-spacing: -.06em; }
-h1 { max-width: 850px; font-size: clamp(4.2rem, 7.8vw, 9.2rem); line-height: .86; }
+h1 { max-width: 850px; font-size: clamp(4.1rem, 7.15vw, 8.5rem); line-height: .86; }
 h1 em, h2 em { font-style: normal; -webkit-text-stroke: 2px currentColor; color: transparent; }
 .hero h1 em { color: var(--red); -webkit-text-stroke: 0; }
 .hero-kicker { color: var(--red); }
@@ -504,7 +504,7 @@ h1 em, h2 em { font-style: normal; -webkit-text-stroke: 2px currentColor; color:
     .section-heading { grid-template-columns: 1fr; gap: 32px; }
     .section-heading h2, .company-heading h2, .capabilities-title h2, .contact-section h2 { font-size: clamp(3.3rem, 15vw, 5.5rem); }
     .game-grid { display: flex; flex-direction: column; }
-    .game-card { width: 100%; min-height: 0; aspect-ratio: 5 / 7; }
+    .game-card { width: 100%; min-height: 0; aspect-ratio: 4 / 5; }
     .company-signature { align-items: flex-start; flex-direction: column; }
     .company-signature span { text-align: left; }
     .capability-row { grid-template-columns: 52px 1fr 30px; gap: 18px; }
