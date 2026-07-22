@@ -21,6 +21,12 @@ menuButton.addEventListener("click", () => {
 });
 
 siteNav.querySelectorAll("a").forEach((link) => link.addEventListener("click", closeMenu));
+document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && menuButton.getAttribute("aria-expanded") === "true") {
+        closeMenu();
+        menuButton.focus();
+    }
+});
 window.addEventListener("scroll", updateHeader, { passive: true });
 window.addEventListener("resize", () => {
     if (window.innerWidth > 760) closeMenu();

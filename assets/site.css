@@ -331,14 +331,15 @@ h1 em, h2 em { font-style: normal; -webkit-text-stroke: 2px currentColor; color:
 .game-grid {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
-    grid-auto-rows: clamp(280px, 28vw, 430px);
+    grid-auto-rows: auto;
     gap: 18px;
 }
 
 .game-card {
     position: relative;
     overflow: hidden;
-    min-height: 300px;
+    min-height: 0;
+    aspect-ratio: 16 / 9;
     color: var(--white);
     background: var(--ink);
 }
@@ -485,7 +486,7 @@ h1 em, h2 em { font-style: normal; -webkit-text-stroke: 2px currentColor; color:
     .menu-button i::before { transform: translateY(6px); }
     .menu-button[aria-expanded="true"] i { transform: rotate(45deg); }
     .menu-button[aria-expanded="true"] i::before { transform: rotate(-90deg); }
-    .site-nav { position: fixed; top: 64px; right: 0; bottom: 0; left: 0; display: none; padding: 50px 24px; flex-direction: column; align-items: flex-start; gap: 25px; color: var(--white); background: var(--red); font-family: var(--display); font-size: 2.5rem; letter-spacing: -.05em; }
+    .site-nav { position: fixed; z-index: 1; top: 64px; right: 0; bottom: auto; left: 0; display: none; width: 100%; height: calc(100vh - 64px); height: calc(100dvh - 64px); padding: 50px 24px; align-self: stretch; flex-direction: column; align-items: flex-start; gap: 25px; overflow-y: auto; overscroll-behavior: contain; color: var(--white); background: var(--red); font-family: var(--display); font-size: 2.5rem; letter-spacing: -.05em; }
     .site-nav.open { display: flex; }
     .hero { min-height: auto; padding: 120px 20px 105px; gap: 65px; }
     .hero::before { top: 72px; }
@@ -503,7 +504,7 @@ h1 em, h2 em { font-style: normal; -webkit-text-stroke: 2px currentColor; color:
     .section-heading { grid-template-columns: 1fr; gap: 32px; }
     .section-heading h2, .company-heading h2, .capabilities-title h2, .contact-section h2 { font-size: clamp(3.3rem, 15vw, 5.5rem); }
     .game-grid { display: flex; flex-direction: column; }
-    .game-card { width: 100%; min-height: 420px; aspect-ratio: 5 / 7; }
+    .game-card { width: 100%; min-height: 0; aspect-ratio: 5 / 7; }
     .company-signature { align-items: flex-start; flex-direction: column; }
     .company-signature span { text-align: left; }
     .capability-row { grid-template-columns: 52px 1fr 30px; gap: 18px; }
